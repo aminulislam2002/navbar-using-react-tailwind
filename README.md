@@ -1,1 +1,2 @@
-# Navbar using react tailwind
+# Navbar using React & Tailwind
+### Start project with...
